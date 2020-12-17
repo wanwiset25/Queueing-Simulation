@@ -5,7 +5,7 @@ Scenario 1 simulates M/M/c/c queue. It takes in the arrival rate (lambda), the s
 
 Scenario 2 simulates an M/M/c queue. It takes in the arrival rate (lambda), the service rate (mu), the probability that a server is busy (epsilon), and the average waiting time (alpha).  It outputs the number of servers required to satisfy the conditions, the average number of busy servers, and the average number of packets in the system.
 
-... (please find detailed description in the assignment file: EE555-mini-project-Spring-2020.pdf) ...
+... (please find detailed scenarios description in the assignment file: EE555-mini-project-Spring-2020.pdf) ...
 
 
 
